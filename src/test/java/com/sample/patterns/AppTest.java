@@ -1,4 +1,4 @@
-package com.cisco.patterns;
+package com.sample.patterns;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

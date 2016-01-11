@@ -1,4 +1,4 @@
-package com.cisco.patterns;
+package com.sample.patterns;
 
 import java.io.FileWriter;
 import java.io.IOException;

@@ -1,4 +1,5 @@
-package com.cisco.patterns;
+package com.sample.patterns;
+
 
 import java.util.Map;
 

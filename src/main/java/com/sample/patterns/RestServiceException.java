@@ -1,4 +1,4 @@
-package com.cisco.patterns;
+package com.sample.patterns;
 
 public class RestServiceException extends Exception {
 

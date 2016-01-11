@@ -1,4 +1,4 @@
-package com.cisco.patterns;
+package com.sample.patterns;
 
 import javax.xml.bind.annotation.XmlRootElement;
 
